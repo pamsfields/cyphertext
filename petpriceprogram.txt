@@ -1,0 +1,36 @@
+animal_wanted=input("Which animal would you want to own? Please type cat, dog, fish, small bird, or small rodent: ")
+animal_age=input("How old is this animal in years?: ")
+animal_location=input("Where did you purchase the animal from? Please type shelter, private home, or breeder: ")
+animal_altered=input("If this is a dog or cat, is the animal spayed or neutered? Please type yes or no: ")
+declawing=input("If this animal is a cat, does your apartment require your cat to be declawed? Please type yes or no: ")
+
+
+These figures are not including alterations or declawing.
+Average alteration cost $200 for dog, $200 for a cat
+Declawing a cat costs on average $250, some leasing offices require this to prevent damage to property.
+•	$300 – Adult indoor-only cat (1 to 10 years old)
+•	$400 – Kitten (under 1 year old)
+•	$500 – Senior indoor-only cat (10+ years)
+•	$600 – Any age cat that goes outdoors
+•	$350 – Small adult dog
+•	$450 – Medium adult dog
+•	$600 – Large adult dog
+•	$800 – Small to medium puppy (under 1 year old)
+•	$900 – Medium to large puppy (under 1 year old)
+•	$1200 and up – Senior dogs, some purebred breeds, special needs pets, dogs who’s coats require monthly professional grooming
+Hamster/mouse/rat
+First-year cost: $345 
+
+Annual cost: $260 
+Small bird
+First-year cost: $295 
+
+Annual cost: $185 (plus unforeseen vet costs) 
+
+Total lifetime cost (avg. lifespan of parakeet: 15-18 years): $2,885 - $3,440
+Fish
+First-year cost: $230 
+
+Annual cost: $20 
+
+Total lifetime cost (avg. lifespan of goldfish: 3-10 years): $270 - $410 
